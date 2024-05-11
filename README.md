@@ -1,4 +1,4 @@
-# Dashboard View
+# Dashboard View ( in Progress... ) 
 
 **Light mode**
 ![image](https://github.com/oviozz/areaWatch/assets/42685801/e29b3f63-3cb0-4f1d-916d-9c956bf1eef9)
